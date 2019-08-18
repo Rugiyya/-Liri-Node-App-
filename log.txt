@@ -1,0 +1,303 @@
+**********SONG INFO*********
+0
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=c9e93873be3749618a6f016afdccde94
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+1
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=c9e93873be3749618a6f016afdccde94
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+2
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/c26ac864ac7cc392650f66b40d92863b314afc1e?cid=c9e93873be3749618a6f016afdccde94
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+4
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=c9e93873be3749618a6f016afdccde94
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+5
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=c9e93873be3749618a6f016afdccde94
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+6
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+7
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+8
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=c9e93873be3749618a6f016afdccde94
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+9
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=c9e93873be3749618a6f016afdccde94
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+10
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=c9e93873be3749618a6f016afdccde94
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+11
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+12
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=c9e93873be3749618a6f016afdccde94
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+13
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=c9e93873be3749618a6f016afdccde94
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+14
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+15
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+16
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+17
+song name: Lights Out (feat. Ty Dolla $ign & Rich The Kid)
+preview song: https://p.scdn.co/mp3-preview/974fcb09bfef10a9fd84fd1e326b61546283be3a?cid=c9e93873be3749618a6f016afdccde94
+album: Lights Out (feat. Ty Dolla $ign & Rich The Kid)
+artist(s): Ronny J
+*****************************
+**********SONG INFO*********
+18
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=c9e93873be3749618a6f016afdccde94
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=c9e93873be3749618a6f016afdccde94
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+0
+song name: I Will Always Love You - From "The Bodyguard" Soundtrack
+preview song: https://p.scdn.co/mp3-preview/91e6d3e0b48cda2f3a1b2391a1c1384fbf73b8a8?cid=c9e93873be3749618a6f016afdccde94
+album: The Bodyguard - Original Soundtrack Album
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+1
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/fbff57f3300f9303d4f5fbe876fcc15ed7ee564d?cid=c9e93873be3749618a6f016afdccde94
+album: Jolene
+artist(s): Dolly Parton
+*****************************
+**********SONG INFO*********
+2
+song name: I Will Always Love You
+preview song: null
+album: I Will Always Love You
+artist(s): Kristin Chenoweth
+*****************************
+**********SONG INFO*********
+3
+song name: I Will Always Love You - Film Version
+preview song: https://p.scdn.co/mp3-preview/683b088d380973cbee3b4034472210d621415a28?cid=c9e93873be3749618a6f016afdccde94
+album: I Wish You Love: More From The Bodyguard
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+4
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/65858cbbe8dd9fc4d2726ca87ee93f06ca6072f7?cid=c9e93873be3749618a6f016afdccde94
+album: Whitney The Greatest Hits
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+5
+song name: I Wanna Dance with Somebody (Who Loves Me)
+preview song: https://p.scdn.co/mp3-preview/8220716ca30d92d0eef7412a6f4d1d5d407ccd04?cid=c9e93873be3749618a6f016afdccde94
+album: I Will Always Love You: The Best Of Whitney Houston
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+6
+song name: How Will I Know
+preview song: https://p.scdn.co/mp3-preview/b5a479f24c17ddd7555893c03db8b0915a6ca10d?cid=c9e93873be3749618a6f016afdccde94
+album: I Will Always Love You: The Best Of Whitney Houston
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+7
+song name: I'm Your Baby Tonight
+preview song: https://p.scdn.co/mp3-preview/ee5f76ffd95d70a1d7089b1b55db61f88cc876c6?cid=c9e93873be3749618a6f016afdccde94
+album: I Will Always Love You: The Best Of Whitney Houston
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+8
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/ba1e5cf39cd5becfc7dfe9c88a302e92d6644b24?cid=c9e93873be3749618a6f016afdccde94
+album: Attitude
+artist(s): Troop
+*****************************
+**********SONG INFO*********
+9
+song name: I Will Always Love You (with Vince Gill)
+preview song: https://p.scdn.co/mp3-preview/b16d70b044d1d71b21288d20b8bbb6bcb5bc9735?cid=c9e93873be3749618a6f016afdccde94
+album: Love Songs
+artist(s): Dolly Parton
+*****************************
+**********SONG INFO*********
+10
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/a1e9855ea342fe0ef42b8bfcd7f0d62e1b1bce99?cid=c9e93873be3749618a6f016afdccde94
+album: Essential Love Songs
+artist(s): Richard Clayderman
+*****************************
+**********SONG INFO*********
+11
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/d3bf7c614287881533203b1ac7e611cd4e37be24?cid=c9e93873be3749618a6f016afdccde94
+album: The Essential Dolly Parton
+artist(s): Dolly Parton
+*****************************
+**********SONG INFO*********
+12
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/48281d57830174f3681b78837e85ffe5bb90a53b?cid=c9e93873be3749618a6f016afdccde94
+album: I Will Always Love You: The Best Of Whitney Houston
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+13
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/480458ce4753786420d61c59ffc558c9f562b2a3?cid=c9e93873be3749618a6f016afdccde94
+album: I Will Always Love You
+artist(s): Leroy Sanchez
+*****************************
+**********SONG INFO*********
+14
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/bf2d88f216d712512c64efa15c92adc43a355f9e?cid=c9e93873be3749618a6f016afdccde94
+album: Are We Not Men? We Are Diva!
+artist(s): Me First and the Gimme Gimmes
+*****************************
+**********SONG INFO*********
+15
+song name: I Will Always Love You (triple j Like A Version)
+preview song: https://p.scdn.co/mp3-preview/c276c73ee162dd27a19ca1ab751dae17676d214c?cid=c9e93873be3749618a6f016afdccde94
+album: I Will Always Love You (triple j Like A Version)
+artist(s): Parcels
+*****************************
+**********SONG INFO*********
+16
+song name: I Will Always Love You
+preview song: https://p.scdn.co/mp3-preview/6a835318a4f7ff136614e87577eb26a5d75bb61f?cid=c9e93873be3749618a6f016afdccde94
+album: Piano Sleep
+artist(s): Dolly Parton
+*****************************
+**********SONG INFO*********
+17
+song name: Greatest Love Of All
+preview song: https://p.scdn.co/mp3-preview/c5da886debbc89b30529df6e1c9ad9b316589e61?cid=c9e93873be3749618a6f016afdccde94
+album: I Will Always Love You: The Best Of Whitney Houston
+artist(s): Whitney Houston
+*****************************
+**********SONG INFO*********
+18
+song name: I Will Always Love You (Instrumental Piano)
+preview song: https://p.scdn.co/mp3-preview/c060d3f831f686c9ab84c0dc76c9323343090aad?cid=c9e93873be3749618a6f016afdccde94
+album: I Will Always Love You (Instrumental Piano)
+artist(s): Tim O'Neill
+*****************************
+**********SONG INFO*********
+19
+song name: I Will Always Love You - Alternate Mix
+preview song: https://p.scdn.co/mp3-preview/4369193297bdf1715b851c79d6972a9f138b3cbf?cid=c9e93873be3749618a6f016afdccde94
+album: I Wish You Love: More From The Bodyguard
+artist(s): Whitney Houston
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********MOVIE INFO*********
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+*****************************
