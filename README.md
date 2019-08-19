@@ -14,7 +14,7 @@ The user has the option of using three commands (listed below) in conjuntion wit
 
   * do-what-it-says
   
- ## HOW TO USE LIRI
+ ## How to use liri
  
 ### Step by Step instructions
 1. Open your terminal such as Bash.
