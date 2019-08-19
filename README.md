@@ -57,6 +57,7 @@ See screen-shot below:
       * Node-Spotify-API
       * Request
       * DotEnv
+      * Axios
   * APIs used:
       * OMDB
   * Git
