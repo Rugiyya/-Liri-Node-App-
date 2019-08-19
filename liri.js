@@ -2,11 +2,12 @@
 require("dotenv").config();
 
 //VARS
-var request = require("request");
-var fs = require("fs");
-var keys = require("./keys.js");
-var Spotify = require('node-spotify-api');
-var spotify = new Spotify(keys.spotify);
+const request = require("request");
+const fs = require("fs");
+const keys = require("./keys.js");
+const axios = require("axios");
+const Spotify = require('node-spotify-api');
+const spotify = new Spotify(keys.spotify);
 //vars to capture user inputs.
 var userCommand = process.argv[2];
 var inputParameter = process.argv[3];
