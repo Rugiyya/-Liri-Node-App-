@@ -61,4 +61,4 @@ See screen-shot below:
   * APIs used:
       * OMDB
   * Git
-  * GitH
+  * GitHub
