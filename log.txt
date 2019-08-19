@@ -138,3 +138,143 @@ preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a2
 album: NOW That's What I Call 90s Pop
 artist(s): Backstreet Boys
 *****************************
+**********SONG INFO*********
+0
+song name: Hero
+preview song: https://p.scdn.co/mp3-preview/a86af6cfc8543b4acfdb57134147067550b1ef9f?cid=c9e93873be3749618a6f016afdccde94
+album: Awake
+artist(s): Skillet
+*****************************
+**********SONG INFO*********
+1
+song name: Juke Box Hero
+preview song: https://p.scdn.co/mp3-preview/596f26d42b94be4ef06d7b63f4a02cbfd3e40c48?cid=c9e93873be3749618a6f016afdccde94
+album: 4 (Expanded)
+artist(s): Foreigner
+*****************************
+**********SONG INFO*********
+2
+song name: Neighborhood Hero
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+3
+song name: My Hero
+preview song: https://p.scdn.co/mp3-preview/ea1fb01ec4f28f204b1591c2953d1f6c886941e2?cid=c9e93873be3749618a6f016afdccde94
+album: The Colour And The Shape
+artist(s): Foo Fighters
+*****************************
+**********SONG INFO*********
+4
+song name: I Could Use a Love Song
+preview song: https://p.scdn.co/mp3-preview/f03fca82860612598d076212ee8d25e5fb4c1629?cid=c9e93873be3749618a6f016afdccde94
+album: HERO (Deluxe Edition)
+artist(s): Maren Morris
+*****************************
+**********SONG INFO*********
+5
+song name: Hero
+preview song: null
+album: Escape
+artist(s): Enrique Iglesias
+*****************************
+**********SONG INFO*********
+6
+song name: My Church
+preview song: https://p.scdn.co/mp3-preview/93d7324822b2739d82600d3e85c0ab0d81291d12?cid=c9e93873be3749618a6f016afdccde94
+album: HERO (Deluxe Edition)
+artist(s): Maren Morris
+*****************************
+**********SONG INFO*********
+7
+song name: Hero
+preview song: https://p.scdn.co/mp3-preview/cc03494b6954237706d6f2ac7b9ce189014f840a?cid=c9e93873be3749618a6f016afdccde94
+album: Music Box
+artist(s): Mariah Carey
+*****************************
+**********SONG INFO*********
+8
+song name: Holding Out for a Hero
+preview song: https://p.scdn.co/mp3-preview/923bf281b264def1f4466ac48ab8bf1ceb1acd62?cid=c9e93873be3749618a6f016afdccde94
+album: Secret Dreams And Forbidden Fire
+artist(s): Bonnie Tyler
+*****************************
+**********SONG INFO*********
+9
+song name: Zero To Hero
+preview song: null
+album: Hercules (Original Motion Picture Soundtrack)
+artist(s): Chorus - Hercules
+*****************************
+**********SONG INFO*********
+10
+song name: Hero
+preview song: https://p.scdn.co/mp3-preview/3d1f4e7938a250e489290ca27e1ebc9b511c1cf4?cid=c9e93873be3749618a6f016afdccde94
+album: Loma Vista
+artist(s): Family of the Year
+*****************************
+**********SONG INFO*********
+11
+song name: Short Change Hero
+preview song: https://p.scdn.co/mp3-preview/326c6ac01505ec37d81a5176353430c9ac0dcf04?cid=c9e93873be3749618a6f016afdccde94
+album: The House That Dirt Built
+artist(s): The Heavy
+*****************************
+**********SONG INFO*********
+12
+song name: Death Of A Hero
+preview song: https://p.scdn.co/mp3-preview/a5bfef3f6e8dd2f1d287de5d4ed257c45f6096d3?cid=c9e93873be3749618a6f016afdccde94
+album: Narrated For You
+artist(s): Alec Benjamin
+*****************************
+**********SONG INFO*********
+13
+song name: 80s Mercedes
+preview song: https://p.scdn.co/mp3-preview/5a1c0886edc7a2b25a3abd41ff5bb4aba6ad6098?cid=c9e93873be3749618a6f016afdccde94
+album: HERO (Deluxe Edition)
+artist(s): Maren Morris
+*****************************
+**********SONG INFO*********
+14
+song name: HERO
+preview song: https://p.scdn.co/mp3-preview/f20609ec6ec73669742db3c3d8b4a2e044697363?cid=c9e93873be3749618a6f016afdccde94
+album: RUSH
+artist(s): Monsta X
+*****************************
+**********SONG INFO*********
+15
+song name: Rich
+preview song: https://p.scdn.co/mp3-preview/a8e201c35908e1a45e8022267f7738e92837c31d?cid=c9e93873be3749618a6f016afdccde94
+album: HERO (Deluxe Edition)
+artist(s): Maren Morris
+*****************************
+**********SONG INFO*********
+16
+song name: Hero
+preview song: null
+album: StarStruck
+artist(s): Christopher Wilde
+*****************************
+**********SONG INFO*********
+17
+song name: Hero Of War
+preview song: null
+album: The Ultimate Skate Metal Album Vol.2
+artist(s): Rise Against
+*****************************
+**********SONG INFO*********
+18
+song name: Hero Of War
+preview song: null
+album: Appeal To Reason
+artist(s): Rise Against
+*****************************
+**********SONG INFO*********
+19
+song name: My Hero
+preview song: https://p.scdn.co/mp3-preview/46145f46a9246e10f645929311a5a5ce8bd01d27?cid=c9e93873be3749618a6f016afdccde94
+album: Greatest Hits
+artist(s): Foo Fighters
+*****************************
