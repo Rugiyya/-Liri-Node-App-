@@ -8,7 +8,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 The user has the option of using three commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
 
-  * spotify-this-song *
+  * spotify-this-song 
 
   * movie-this
 
