@@ -56,7 +56,6 @@ See screen-shot below:
   * Node packages:
       * Node-Spotify-API
       * Request
-      * Moment
       * DotEnv
   * APIs used:
       * OMDB
