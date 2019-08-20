@@ -82,42 +82,42 @@ function showMovieInfo(inputParameter) {
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=b3c0b435";
     let rt = "";
-    //Axios call from activities
+    //axios call taken from activities
     axios.get(queryUrl).then(
             function (response) {
-                // taking rotten tomatoes rating from an array 
+                // fetching rotten tomatoes from array an dputting it in rt or saying unavailable
                 for (let i = 0; i < response.data.Ratings.length; i++) {
                     if (response.data.Ratings[i].Source === "Rotten Tomatoes") {
-                        rottenTmt = response.data.Ratings[i].Value;
+                        rt = response.data.Ratings[i].Value;
                         break;
                     } else {
-                        rottenTmt = "unavailable";
+                        rt = "unavailable";
                     }
                 }
-                //Print all info
+                //all the info to print
                 console.log("**********MOVIE INFO*********");
                 fs.appendFileSync("log.txt", "**********MOVIE INFO*********\n");
-                console.log("Title: " + response.data.Title);
-                fs.appendFileSync("log.txt", "Title: " + response.data.Title + "\n");
-                console.log("Release Year: " + response.data.Year);
-                fs.appendFileSync("log.txt", "Release Year: " + response.data.Year + "\n");
-                console.log("IMDB Rating: " + response.data.imdbRating);
-                fs.appendFileSync("log.txt", "IMDB Rating: " + response.data.imdbRating + "\n");
-                console.log("Rotten Tomatoes Rating: " + rottenTmt);
-                fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + rottenTmt + "\n");
-                console.log("Country of Production: " + response.data.Country);
-                fs.appendFileSync("log.txt", "Country of Production: " + response.data.Country + "\n");
-                console.log("Language: " + response.data.Language);
-                fs.appendFileSync("log.txt", "Language: " + response.data.Language + "\n");
-                console.log("Plot: " + response.data.Plot);
-                fs.appendFileSync("log.txt", "Plot: " + response.data.Plot + "\n");
-                console.log("Actors: " + response.data.Actors);
-                fs.appendFileSync("log.txt", "Actors: " + response.data.Actors + "\n");
+                console.log("Title: " + data.Title);
+                fs.appendFileSync("log.txt", "Title: " + data.Title + "\n");
+                console.log("Release Year: " + data.Year);
+                fs.appendFileSync("log.txt", "Release Year: " + data.Year + "\n");
+                console.log("IMDB Rating: " + data.imdbRating);
+                fs.appendFileSync("log.txt", "IMDB Rating: " + data.imdbRating + "\n");
+                console.log("Rotten Tomatoes Rating: " + rt);
+                fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + rt + "\n");
+                console.log("Country of Production: " + data.Country);
+                fs.appendFileSync("log.txt", "Country of Production: " + data.Country + "\n");
+                console.log("Language: " + data.Language);
+                fs.appendFileSync("log.txt", "Language: " + data.Language + "\n");
+                console.log("Plot: " + data.Plot);
+                fs.appendFileSync("log.txt", "Plot: " + data.Plot + "\n");
+                console.log("Actors: " + data.Actors);
+                fs.appendFileSync("log.txt", "Actors: " + data.Actors + "\n");
                 console.log("*****************************");
                 fs.appendFileSync("log.txt", "*****************************\n");
 
             })
-        //Error handling from activity
+        //comicated error handling from activity
         .catch(function (error) {
             if (error.response) {
                 // The request was made and the server responded with a status code
