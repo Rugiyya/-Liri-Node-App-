@@ -81,7 +81,7 @@ function showMovieInfo(inputParameter) {
         fs.appendFileSync("log.txt", "It's on Netflix!\n");
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=b3c0b435";
-    let rt = "";
+    let rottenTmt = "";
     //Axios call from activities
     axios.get(queryUrl).then(
             function (response) {
