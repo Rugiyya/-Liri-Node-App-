@@ -50,6 +50,7 @@ function showSongInfo(inputParameter) {
             var songs = data.tracks.items;
 
             for (var i = 0; i < songs.length; i++) {
+                 //Print all info and write it in log file
                 console.log("**********SONG INFO*********");
                 fs.appendFileSync("log.txt", "**********SONG INFO*********\n");
                 console.log(i);
@@ -94,7 +95,7 @@ function showMovieInfo(inputParameter) {
                         rottenTmt = "unavailable";
                     }
                 }
-                //Print all info
+                //Print all info and write it in log file 
                 console.log("**********MOVIE INFO*********");
                 fs.appendFileSync("log.txt", "**********MOVIE INFO*********\n");
                 console.log("Title: " + response.data.Title);
