@@ -8,11 +8,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 The user has the option of using three commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
 
-  * spotify-this-song 
+  * *spotify-this-song*
 
-  * movie-this
+  * *movie-this*
 
-  * do-what-it-says
+  * *do-what-it-says*
   
  ## How to use liri
  
@@ -23,7 +23,7 @@ The user has the option of using three commands (listed below) in conjuntion wit
 
 1. Depending on the command you run, the output will vary.
 
-Example 1: Run the spotify-this-song command
+Example 1: Run the *spotify-this-song* command
 
  node liri.js spotify-this-song <name of song>
   
@@ -31,7 +31,7 @@ Output: The system will display a list of information associated with the song. 
 
 ![alt text](/images/screenshot1.png)
 
-Example 2: Run the movie-this command
+Example 2: Run the *movie-this command*
 
  node liri.js movie-this <name of movie>
   
@@ -39,7 +39,7 @@ Output: The system will display information associated with the movie. The syste
 
 ![alt text](/images/screenshot2.png)
 
-Example 3: Run the do-what-it-says command
+Example 3: Run the *do-what-it-says* command
 
  node liri.js do-what-it-says
  
