@@ -4,7 +4,7 @@
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-The user has the option of using three commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
+The user has the option of using three commands (listed below) in conjunction with specific parameters associated with the commands. The Commands are:
 
   * *spotify-this-song*
 
@@ -61,4 +61,4 @@ See screen-shot below:
   * Git
   * GitHub
   
-  #### Creator: *Rugiya Mammadov*
+  #### Creator: *Rugiyya Mammadov*
